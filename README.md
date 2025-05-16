@@ -3,6 +3,16 @@
 A full-featured real-time team chat application built with **Flutter**, **GetX**, and **Firebase**. Supports private and group messaging, typing indicators, seen status, user search, and more!
 
 ---
+## 🧪 Screenshots
+
+| Login | Signup | Homepage |
+|-------|--------|----------|
+| ![Login](assets/ss/l1.png) | ![Signup](assets/ss/l2.png) | ![Homepage](assets/ss/l3.png) |
+
+| Create Group | Private Chat | Group Chat |
+|--------------|--------------|------------|
+| ![Create Group](assets/ss/l4.png) | ![Private Chat](assets/ss/l5.png) | ![Group Chat](assets/ss/l6.png) |
+
 
 ## 🚀 Features
 
