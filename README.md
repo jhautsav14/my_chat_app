@@ -35,31 +35,26 @@ A full-featured real-time team chat application built with **Flutter**, **GetX**
 ```bash
 git clone https://github.com/your-username/my_chat_app.git
 cd my_chat_app
+```
 
 
-2. Install Dependencies
-bash
-Copy
-Edit
+## 2. Install Dependencies
+```bash
 flutter pub get
-3. Firebase Setup
-Create a Firebase project at console.firebase.google.com
+```
+## 3. Firebase Setup
+-Create a Firebase project at console.firebase.google.com
 
-Enable Email/Password Authentication
+-Enable Email/Password Authentication
 
-Set up Cloud Firestore
+-Set up Cloud Firestore
 
-Download google-services.json and place it in android/app/
+-Download google-services.json and place it in android/app/
 
-4. Run the App
-bash
-Copy
-Edit
+## 4. Run the App
+```bash
 flutter run
 📁 Project Structure
-bash
-Copy
-Edit
 lib/
 ├── app/
 │   ├── modules/
@@ -71,21 +66,16 @@ lib/
 │   └── routes/             # Route configuration
 🧪 Screenshots
 Login	Chat Screen	Group Creation
+```
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License.
 
-🌟 Future Enhancements
-📎 File/Image Sharing
+- 🌟 Future Enhancements
+- 📎 File/Image Sharing
+- 👨‍💼 Admin Controls
+- 📊 Delivery Analytics
 
-🔔 Push Notifications
-
-🌙 Dark Mode
-
-👨‍💼 Admin Controls
-
-📊 Delivery Analytics
-
-👨‍💻 Author
-Your Name
-GitHub Profile
+## 👨‍💻 Author
+Utsav Kumar
+[GitHub](https://github.com/jhautsav14)
