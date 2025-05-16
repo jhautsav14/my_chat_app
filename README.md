@@ -7,11 +7,11 @@ A full-featured real-time team chat application built with **Flutter**, **GetX**
 
 | Login | Signup | Homepage |
 |-------|--------|----------|
-| ![Login](assets/ss/l1.png) | ![Signup](assets/ss/l2.png) | ![Homepage](assets/ss/l3.png) |
+| ![Login](assets/ss/l1.jpg) | ![Signup](assets/ss/l2.jpg) | ![Homepage](assets/ss/l3.jpg) |
 
 | Create Group | Private Chat | Group Chat |
 |--------------|--------------|------------|
-| ![Create Group](assets/ss/l4.png) | ![Private Chat](assets/ss/l5.png) | ![Group Chat](assets/ss/l6.png) |
+| ![Create Group](assets/ss/l4.jpg) | ![Private Chat](assets/ss/l5.jpg) | ![Group Chat](assets/ss/l6.jpg) |
 
 
 ## 🚀 Features
